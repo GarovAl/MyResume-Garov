@@ -24,6 +24,6 @@
     * работа с БД
 * разработка дизайна (работа в PS)
 ***
-`Cсылка на репозиторий:` https://github.com/GarovAl/MyResume-GarovAl 
-`Ссылка на issues 1:` https://github.com/GarovAl/MyResume-GarovAl/issues/1#issue-1223964934
-`Ссылка на issues 2:` https://github.com/GarovAl/MyResume-GarovAl/issues/2#issue-1223984220
++`Cсылка на репозиторий:` https://github.com/GarovAl/MyResume-GarovAl 
++`Ссылка на issues 1:` https://github.com/GarovAl/MyResume-GarovAl/issues/1#issue-1223964934
++`Ссылка на issues 2:` https://github.com/GarovAl/MyResume-GarovAl/issues/2#issue-1223984220
